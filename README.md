@@ -40,6 +40,6 @@ Projetos ETECIA: Aplicações desenvolvidas durante o curso técnico em Desenvol
 LinkedIn: https://www.linkedin.com/in/gabriel-dantas-da-silva-851103204
 
 E-mail: gabrieldantass12@gmail.com   
-
-**Gab-Tech12/Gab-Tech12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
+<hr>
 
