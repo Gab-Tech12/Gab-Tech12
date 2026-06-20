@@ -22,10 +22,10 @@
   <li> Linguagens: Java (Foco Principal), JavaScript e Lógica de Programação. </li>  
 
 
-  <li> Frameworks: Spring Boot (Estudando).  </li>
+  <li> Frameworks: Spring Boot (desenvolvendo).  </li>
 
 
-  <li> Banco de Dados: Noções de SQL (MySQL e PostgreSQL). </li>  
+  <li> Banco de Dados: SQL Server, modelagem relacional, DER, normalização e consultas SQL. </li>  
 
 
   <li> Ferramentas & Metodologias: Git, GitHub, IntelliJ IDEA, VS Code, Scrum e Kanban. </li>  
