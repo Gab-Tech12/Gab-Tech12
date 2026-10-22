@@ -19,7 +19,7 @@
 <h2>🛠️ Tecnologias e Ferramentas</h2>
 
 <ul> 
-  <li> Linguagens: Java (Foco Principal), JavaScript e Lógica de Programação. </li>  
+  <li> Linguagens: Java (Foco Principal), JavaScript, Python. </li>  
 
 
   <li> Frameworks: Spring Boot (desenvolvendo).  </li>
